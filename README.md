@@ -1,3 +1,9 @@
+[Digital Repository](https://dr.lib.iastate.edu/entities/publication/4559782c-cabe-47bb-8ff9-68093dc16fb7/full)
+
+# Sample Model Output
+
+<img width="633" height="370" alt="Screenshot 2025-08-13 at 8 28 45 AM" src="https://github.com/user-attachments/assets/f94046db-d5fd-4ce4-816c-fdf067e7be14" />
+
 # Phenocyte
 An automatic Arabidopsis plant phenotyping tool using machine learning.
 
